@@ -1,0 +1,8 @@
+.Card {
+  display: flex;
+  align-items: center; }
+
+.Img {
+  max-height: 100;
+  width: auto;
+  display: flex; }

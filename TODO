@@ -1,0 +1,24 @@
+
+Webshop:
+    ☐ registracija @started(19-11-29 15:10)
+    ☐ prijava
+    ☐ Narucivanje
+    ☐ prikaz povijesti narudžbi
+    ☐ ponavljanje narudžbe
+    ☐ detaljnije o proizvodu @low
+    ☐ pagination
+
+Details:
+    ☐ Ponistavanje filtera i sortiranja kad se ode iz shopa
+    ☐ Vrijednost filtera se uvik mora vidit
+    ☐ slozit da se visibleitems zovu tek nakon sta su povuceni iz baze il
+    ☐ pribacit visible items na neko normalno misto, u appp mozda
+    
+UI:
+    ☐ Popravit NavIteme koji se micu kad ih se pritisne
+
+Archive:
+    ✔ pretraživanje @low @started(19-11-29 10:18) @done(19-11-29 11:33) @lasted(1h15m14s) @project(Webshop)
+    ✔ dodavanje proizvoda u košaricu @done(19-11-29 10:04) @project(Webshop)
+    ✔ filtriranje @done(19-11-29 10:04) @project(Webshop)
+    ✔ sortiranje @done(19-11-29 10:04) @project(Webshop)

@@ -1,0 +1,16 @@
+[
+    {
+      "key": "1",
+      "title": "Apple",
+      "description": "Sweet and healthy",
+      "price": "5.00",
+      "relPath": "/apple.jpg"
+    },
+    {
+      "key": "2",
+      "title": "Pizza",
+      "description": "Very hot!",
+      "price": "12.00",
+      "relPath": "/pizza.jpg"
+    }
+  ]

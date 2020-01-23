@@ -1,0 +1,13 @@
+@import '../../style/_colors';
+
+.Logo{
+    background-color: $primary-light;
+    padding:3px;
+    height: 90%;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+
+.Logo img{
+    height: 100%;
+}

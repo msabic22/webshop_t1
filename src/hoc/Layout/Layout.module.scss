@@ -1,0 +1,12 @@
+
+.Content {
+    margin: 56px auto 0 auto;
+}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+    .Content {
+        width: 1224px;
+    }
+}
